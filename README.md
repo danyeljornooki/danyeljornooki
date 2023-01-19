@@ -1,10 +1,10 @@
 ## Olá eu sou o Danyel Jornooki, programador front e back, cursando ADS na UNIDEP!
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/danyeljornooki">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danyeljornooki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeljornooki&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
-</div>
+</div> -->
 <div style="display:inline_block"><br>
   <img align="center" alt="dany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dany-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
