@@ -38,8 +38,8 @@ jobs:
         with:
           push: true
           tags: |
-            platane/snk:${{ github.sha }}
-            platane/snk:${{ github.event.inputs.version }}
+            danyeljornooki/danyeljornooki:${{ github.sha }}
+            danyeljornooki/danyeljornooki:${{ github.event.inputs.version }}
 
       - name: update action.yml to point to the newly created docker image
         run: |
