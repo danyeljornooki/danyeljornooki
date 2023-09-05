@@ -28,5 +28,9 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeljornooki&layout=compact&langs_count=7&theme=github_dark"/>
     </a>
   </div>
+  <br><br>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=danyeljornooki&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
 </div>
 
