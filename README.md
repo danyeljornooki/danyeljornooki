@@ -21,13 +21,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-  <br><br>
-      <a href="https://github.com/danyeljornooki" >
-        <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=danyeljornooki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<!--         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyeljornooki&layout=compact&langs_count=7&theme=github_dark"/> -->
-    </a>
-  
-  <br><br>
   
 
 </div>
