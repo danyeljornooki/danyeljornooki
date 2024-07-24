@@ -6,6 +6,9 @@
   - 🌱 I’m currently learning Node.js and Java
   - 😄 Pronouns: He / Him
 
+
+<a href="https://vercel.com/danyeljornookis-projects-8307d8d5"> -portfolio- </a>
+
 #### 📫 How to reach me:
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/DroidNoya/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/jornooki_danyel)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/danyel-jornooki-4218b3249/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/jorororki/)  &nbsp; <a href="mailto:danyeljornooki@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
