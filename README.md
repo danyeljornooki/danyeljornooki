@@ -6,8 +6,8 @@
   - 🌱 I’m currently learning Node.js and Java
   - 😄 Pronouns: He / Him
 
-
-<a href="https://vercel.com/danyeljornookis-projects-8307d8d5"> -portfolio- </a>
+portfolio
+<a href="https://vercel.com/danyeljornookis-projects-8307d8d5"> <img src="https://cdn-icons-png.flaticon.com/256/3476/3476457.png" width="3.5%"></a>
 
 #### 📫 How to reach me:
   
