@@ -7,7 +7,7 @@
   - 😄 Pronouns: He / Him
 
 #### Portfolio 
-<a href="https://vercel.com/danyeljornookis-projects-8307d8d5"> <img src="https://cdn-icons-png.flaticon.com/256/3476/3476457.png" width="3.5%"></a>
+<a href="https://vercel.com/danyeljornookis-projects-8307d8d5](https://portifolio-pink-pi.vercel.app)"> <img src="https://cdn-icons-png.flaticon.com/256/3476/3476457.png" width="3.5%"></a>
 
 #### 📫 How to reach me:
   
